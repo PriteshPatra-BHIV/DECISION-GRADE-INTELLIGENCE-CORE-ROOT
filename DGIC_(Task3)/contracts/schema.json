@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Decision-Grade Intelligence Output",
+  "type": "object",
+  "required": ["signals", "interpretations", "uncertainty", "non_guarantees", "authority_neutrality"],
+  "properties": {
+    "signals": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["signal_id", "source", "confidence", "known_limitations"],
+        "properties": {
+          "signal_id": {"type": "string"},
+          "source": {"type": "string"},
+          "value": {"type": "number"},
+          "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+          "known_limitations": {"type": "string"}
+        }
+      }
+    },
+    "interpretations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["hypothesis", "description", "confidence_estimate"],
+        "properties": {
+          "hypothesis": {"type": "string"},
+          "description": {"type": "string"},
+          "confidence_estimate": {
+            "type": "object",
+            "required": ["mean", "uncertainty"],
+            "properties": {
+              "mean": {"type": "number", "minimum": 0, "maximum": 1},
+              "uncertainty": {"type": "number", "minimum": 0, "maximum": 1}
+            }
+          }
+        }
+      }
+    },
+    "uncertainty": {
+      "type": "object",
+      "required": ["known_unknowns", "ambiguities", "confidence_decay"],
+      "properties": {
+        "known_unknowns": {"type": "array", "items": {"type": "string"}},
+        "ambiguities": {"type": "array", "items": {"type": "string"}},
+        "confidence_decay": {"type": "number"}
+      }
+    },
+    "non_guarantees": {
+      "type": "string",
+      "const": "This output does not recommend actions, does not select policies, and does not claim optimality, correctness, or authority."
+    },
+    "authority_neutrality": {
+      "type": "string",
+      "const": "This output provides structured intelligence only. It does not authorize, initiate, justify, or execute decisions."
+    }
+  }
+}
