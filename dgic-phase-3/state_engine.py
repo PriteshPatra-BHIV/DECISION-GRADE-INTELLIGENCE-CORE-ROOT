@@ -5,8 +5,8 @@ from datetime import datetime
 from pathlib import Path
 
 
-TRANSITION_MATRIX_FILE = Path("transition-matrix.json")
-JOURNAL_FILE = Path("collapse_journal_log.json")
+TRANSITION_MATRIX_FILE = Path(__file__).parent / "transition-matrix.json"
+JOURNAL_FILE = Path(__file__).parent / "collapse_journal_log.json"
 
 
 class StateViolation(Exception):

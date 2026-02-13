@@ -1,22 +1,62 @@
 [
     {
-        "transition_id": "e39cf354-e363-466a-876e-b3147ead9910",
-        "timestamp": "2026-02-13T06:50:53.871313",
+        "transition_id": "f4d0c2a7-9b9d-47c5-ab26-97dc86e7752b",
+        "timestamp": "2026-02-13T10:57:42.509926",
         "previous_state": "Unknown",
         "target_state": "Ambiguous",
         "new_evidence": false,
         "justified_collapse": false,
         "previous_hash": "GENESIS",
-        "event_hash": "d2b10fac8f7a9547e064d4db662690b182f734177956e7f2ce2c2e933593f765"
+        "event_hash": "24fc0cc5f01cd6af3b3b4210c0540043cd35c37421f1313161bdcc31ffb58b72"
     },
     {
-        "transition_id": "0f5b3d30-6a34-417a-843f-fc2b3148f9e7",
-        "timestamp": "2026-02-13T06:50:53.877764",
+        "transition_id": "99af183c-4f74-4dc3-90d3-650b81f2da73",
+        "timestamp": "2026-02-13T10:57:42.511925",
         "previous_state": "Ambiguous",
         "target_state": "Known",
         "new_evidence": true,
         "justified_collapse": true,
-        "previous_hash": "d2b10fac8f7a9547e064d4db662690b182f734177956e7f2ce2c2e933593f765",
-        "event_hash": "124e09943d3118ece086cdc789e044838130cc9ddb0b96f5516cda6366621619"
+        "previous_hash": "24fc0cc5f01cd6af3b3b4210c0540043cd35c37421f1313161bdcc31ffb58b72",
+        "event_hash": "ae15277ed9c0c5e4be0e6abee947fc5d4595383c125eece8e69b510112847780"
+    },
+    {
+        "transition_id": "170f0fa5-b62e-4248-849c-b65fa0913d51",
+        "timestamp": "2026-02-13T10:57:42.654533",
+        "previous_state": "Unknown",
+        "target_state": "Ambiguous",
+        "new_evidence": false,
+        "justified_collapse": false,
+        "previous_hash": "GENESIS",
+        "event_hash": "71784c02842be37c0a46d6e25740b5064070937d91a0fcb80a2a0ab1522de76b"
+    },
+    {
+        "transition_id": "9524b38a-4e0c-438a-9910-80eaca69d2ce",
+        "timestamp": "2026-02-13T10:57:42.655577",
+        "previous_state": "Ambiguous",
+        "target_state": "Unknown",
+        "new_evidence": false,
+        "justified_collapse": false,
+        "previous_hash": "71784c02842be37c0a46d6e25740b5064070937d91a0fcb80a2a0ab1522de76b",
+        "event_hash": "907f6e421eae102d8d8b2c543e9373275d512bad18b795ad0eab103b57448ae2"
+    },
+    {
+        "transition_id": "8f87bf3d-f8e7-4779-9ec7-b6203bbfa5f2",
+        "timestamp": "2026-02-13T10:57:42.680554",
+        "previous_state": "Unknown",
+        "target_state": "Ambiguous",
+        "new_evidence": false,
+        "justified_collapse": false,
+        "previous_hash": "907f6e421eae102d8d8b2c543e9373275d512bad18b795ad0eab103b57448ae2",
+        "event_hash": "900effec4a86cea9c9eba6aac818d33a5567b50e1dd6e9d4bf0cdd23582888c1"
+    },
+    {
+        "transition_id": "263e7f87-abbc-4f9d-b91b-0415a05a5bc8",
+        "timestamp": "2026-02-13T10:57:42.706828",
+        "previous_state": "Unknown",
+        "target_state": "Ambiguous",
+        "new_evidence": false,
+        "justified_collapse": false,
+        "previous_hash": "GENESIS",
+        "event_hash": "c852f523081c7faba2a51c25bc25127bbdc2e6e5f2b0541155e85ddb69f924ac"
     }
 ]

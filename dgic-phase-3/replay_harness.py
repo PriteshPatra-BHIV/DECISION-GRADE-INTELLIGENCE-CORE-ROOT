@@ -3,7 +3,7 @@ import hashlib
 from pathlib import Path
 
 
-JOURNAL_FILE = Path("collapse_journal_log.json")
+JOURNAL_FILE = Path(__file__).parent / "collapse_journal_log.json"
 
 
 class ReplayViolation(Exception):
