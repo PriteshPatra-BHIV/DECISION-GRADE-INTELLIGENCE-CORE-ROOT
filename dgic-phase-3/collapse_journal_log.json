@@ -1,0 +1,22 @@
+[
+    {
+        "transition_id": "e39cf354-e363-466a-876e-b3147ead9910",
+        "timestamp": "2026-02-13T06:50:53.871313",
+        "previous_state": "Unknown",
+        "target_state": "Ambiguous",
+        "new_evidence": false,
+        "justified_collapse": false,
+        "previous_hash": "GENESIS",
+        "event_hash": "d2b10fac8f7a9547e064d4db662690b182f734177956e7f2ce2c2e933593f765"
+    },
+    {
+        "transition_id": "0f5b3d30-6a34-417a-843f-fc2b3148f9e7",
+        "timestamp": "2026-02-13T06:50:53.877764",
+        "previous_state": "Ambiguous",
+        "target_state": "Known",
+        "new_evidence": true,
+        "justified_collapse": true,
+        "previous_hash": "d2b10fac8f7a9547e064d4db662690b182f734177956e7f2ce2c2e933593f765",
+        "event_hash": "124e09943d3118ece086cdc789e044838130cc9ddb0b96f5516cda6366621619"
+    }
+]

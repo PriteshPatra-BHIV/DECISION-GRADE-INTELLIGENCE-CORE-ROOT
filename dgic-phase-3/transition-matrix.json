@@ -1,0 +1,22 @@
+{
+  "Known": {
+    "allowed": ["Inferred"],
+    "requires_evidence": [],
+    "requires_collapse": []
+  },
+  "Inferred": {
+    "allowed": ["Ambiguous", "Known"],
+    "requires_evidence": ["Known"],
+    "requires_collapse": []
+  },
+  "Ambiguous": {
+    "allowed": ["Unknown", "Known"],
+    "requires_evidence": ["Known"],
+    "requires_collapse": ["Known"]
+  },
+  "Unknown": {
+    "allowed": ["Ambiguous"],
+    "requires_evidence": [],
+    "requires_collapse": []
+  }
+}
