@@ -1,0 +1,2617 @@
+[
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_1",
+        "archived_at": "2026-02-21T10:22:45.959880"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_X",
+        "archived_at": "2026-02-21T10:22:46.001571"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_A",
+        "archived_at": "2026-02-21T10:22:46.062759"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_B",
+        "archived_at": "2026-02-21T10:22:46.095373"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_1",
+        "archived_at": "2026-02-21T10:22:46.215610"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_0"
+        },
+        "archived_at": "2026-02-21T10:22:52.846177"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_1"
+        },
+        "archived_at": "2026-02-21T10:22:52.877738"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_2"
+        },
+        "archived_at": "2026-02-21T10:22:52.926382"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_3"
+        },
+        "archived_at": "2026-02-21T10:22:52.975567"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_4"
+        },
+        "archived_at": "2026-02-21T10:22:53.026268"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_5"
+        },
+        "archived_at": "2026-02-21T10:22:53.081014"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_6"
+        },
+        "archived_at": "2026-02-21T10:22:53.129874"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_7"
+        },
+        "archived_at": "2026-02-21T10:22:53.174500"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_8"
+        },
+        "archived_at": "2026-02-21T10:22:53.220482"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_9"
+        },
+        "archived_at": "2026-02-21T10:22:53.264048"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_10"
+        },
+        "archived_at": "2026-02-21T10:22:53.314527"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_11"
+        },
+        "archived_at": "2026-02-21T10:22:53.368116"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_12"
+        },
+        "archived_at": "2026-02-21T10:22:53.410444"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_13"
+        },
+        "archived_at": "2026-02-21T10:22:53.486271"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_14"
+        },
+        "archived_at": "2026-02-21T10:22:54.063838"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_15"
+        },
+        "archived_at": "2026-02-21T10:22:54.225935"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_16"
+        },
+        "archived_at": "2026-02-21T10:22:54.279023"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_17"
+        },
+        "archived_at": "2026-02-21T10:22:54.330931"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_18"
+        },
+        "archived_at": "2026-02-21T10:22:54.389075"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_19"
+        },
+        "archived_at": "2026-02-21T10:22:54.441344"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_20"
+        },
+        "archived_at": "2026-02-21T10:22:54.493516"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_21"
+        },
+        "archived_at": "2026-02-21T10:22:54.542228"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_22"
+        },
+        "archived_at": "2026-02-21T10:22:54.599633"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_23"
+        },
+        "archived_at": "2026-02-21T10:22:54.645910"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_24"
+        },
+        "archived_at": "2026-02-21T10:22:54.692289"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_25"
+        },
+        "archived_at": "2026-02-21T10:22:54.737009"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_26"
+        },
+        "archived_at": "2026-02-21T10:22:54.791123"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_27"
+        },
+        "archived_at": "2026-02-21T10:22:54.869133"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_28"
+        },
+        "archived_at": "2026-02-21T10:22:54.933526"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_29"
+        },
+        "archived_at": "2026-02-21T10:22:54.977266"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_30"
+        },
+        "archived_at": "2026-02-21T10:22:55.027821"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_31"
+        },
+        "archived_at": "2026-02-21T10:22:55.095177"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_32"
+        },
+        "archived_at": "2026-02-21T10:22:55.796082"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_33"
+        },
+        "archived_at": "2026-02-21T10:22:55.910675"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_34"
+        },
+        "archived_at": "2026-02-21T10:22:55.987405"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_35"
+        },
+        "archived_at": "2026-02-21T10:22:56.070489"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_36"
+        },
+        "archived_at": "2026-02-21T10:22:56.147841"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_37"
+        },
+        "archived_at": "2026-02-21T10:22:56.233610"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_38"
+        },
+        "archived_at": "2026-02-21T10:22:56.302499"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_39"
+        },
+        "archived_at": "2026-02-21T10:22:56.376183"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_40"
+        },
+        "archived_at": "2026-02-21T10:22:56.452499"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_41"
+        },
+        "archived_at": "2026-02-21T10:22:56.542911"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_42"
+        },
+        "archived_at": "2026-02-21T10:22:56.637761"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_43"
+        },
+        "archived_at": "2026-02-21T10:22:56.719217"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_44"
+        },
+        "archived_at": "2026-02-21T10:22:56.987196"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_45"
+        },
+        "archived_at": "2026-02-21T10:22:57.104289"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_46"
+        },
+        "archived_at": "2026-02-21T10:22:57.195668"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_47"
+        },
+        "archived_at": "2026-02-21T10:22:57.271903"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_48"
+        },
+        "archived_at": "2026-02-21T10:22:57.348851"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_49"
+        },
+        "archived_at": "2026-02-21T10:22:57.438725"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_1",
+        "archived_at": "2026-02-21T10:23:38.030252"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_X",
+        "archived_at": "2026-02-21T10:23:38.110172"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_A",
+        "archived_at": "2026-02-21T10:23:38.186680"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_B",
+        "archived_at": "2026-02-21T10:23:38.207434"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_1",
+        "archived_at": "2026-02-21T10:23:38.375108"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_0"
+        },
+        "archived_at": "2026-02-21T10:23:45.290727"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_1"
+        },
+        "archived_at": "2026-02-21T10:23:45.345626"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_2"
+        },
+        "archived_at": "2026-02-21T10:23:45.446282"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_3"
+        },
+        "archived_at": "2026-02-21T10:23:45.530610"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_4"
+        },
+        "archived_at": "2026-02-21T10:23:45.637947"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_5"
+        },
+        "archived_at": "2026-02-21T10:23:45.707511"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_6"
+        },
+        "archived_at": "2026-02-21T10:23:45.766632"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_7"
+        },
+        "archived_at": "2026-02-21T10:23:45.821752"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_8"
+        },
+        "archived_at": "2026-02-21T10:23:45.873921"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_9"
+        },
+        "archived_at": "2026-02-21T10:23:45.922815"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_10"
+        },
+        "archived_at": "2026-02-21T10:23:45.987107"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_11"
+        },
+        "archived_at": "2026-02-21T10:23:46.040784"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_12"
+        },
+        "archived_at": "2026-02-21T10:23:46.089337"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_13"
+        },
+        "archived_at": "2026-02-21T10:23:46.141888"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_14"
+        },
+        "archived_at": "2026-02-21T10:23:46.212659"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_15"
+        },
+        "archived_at": "2026-02-21T10:23:46.709230"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_16"
+        },
+        "archived_at": "2026-02-21T10:23:46.816077"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_17"
+        },
+        "archived_at": "2026-02-21T10:23:46.936961"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_18"
+        },
+        "archived_at": "2026-02-21T10:23:46.993882"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_19"
+        },
+        "archived_at": "2026-02-21T10:23:47.060472"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_20"
+        },
+        "archived_at": "2026-02-21T10:23:47.115140"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_21"
+        },
+        "archived_at": "2026-02-21T10:23:47.268324"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_22"
+        },
+        "archived_at": "2026-02-21T10:23:47.327301"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_23"
+        },
+        "archived_at": "2026-02-21T10:23:47.377980"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_24"
+        },
+        "archived_at": "2026-02-21T10:23:47.455679"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_25"
+        },
+        "archived_at": "2026-02-21T10:23:47.519765"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_26"
+        },
+        "archived_at": "2026-02-21T10:23:47.682648"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_27"
+        },
+        "archived_at": "2026-02-21T10:23:48.219887"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_28"
+        },
+        "archived_at": "2026-02-21T10:23:48.294599"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_29"
+        },
+        "archived_at": "2026-02-21T10:23:48.353276"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_30"
+        },
+        "archived_at": "2026-02-21T10:23:48.407173"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_31"
+        },
+        "archived_at": "2026-02-21T10:23:48.470974"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_32"
+        },
+        "archived_at": "2026-02-21T10:23:48.554525"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_33"
+        },
+        "archived_at": "2026-02-21T10:23:48.616715"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_34"
+        },
+        "archived_at": "2026-02-21T10:23:48.680144"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_35"
+        },
+        "archived_at": "2026-02-21T10:23:48.736026"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_36"
+        },
+        "archived_at": "2026-02-21T10:23:48.790544"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_37"
+        },
+        "archived_at": "2026-02-21T10:23:48.844610"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_38"
+        },
+        "archived_at": "2026-02-21T10:23:48.909833"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_39"
+        },
+        "archived_at": "2026-02-21T10:23:48.965027"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_40"
+        },
+        "archived_at": "2026-02-21T10:23:49.019797"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_41"
+        },
+        "archived_at": "2026-02-21T10:23:49.086745"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_42"
+        },
+        "archived_at": "2026-02-21T10:23:49.145587"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_43"
+        },
+        "archived_at": "2026-02-21T10:23:49.772815"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_44"
+        },
+        "archived_at": "2026-02-21T10:23:49.831706"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_45"
+        },
+        "archived_at": "2026-02-21T10:23:49.894969"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_46"
+        },
+        "archived_at": "2026-02-21T10:23:49.954726"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_47"
+        },
+        "archived_at": "2026-02-21T10:23:50.009958"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_48"
+        },
+        "archived_at": "2026-02-21T10:23:50.075519"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_49"
+        },
+        "archived_at": "2026-02-21T10:23:50.134375"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_1",
+        "archived_at": "2026-02-21T10:24:50.875002"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_X",
+        "archived_at": "2026-02-21T10:24:50.945910"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_A",
+        "archived_at": "2026-02-21T10:24:51.055161"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_B",
+        "archived_at": "2026-02-21T10:24:51.077771"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_1",
+        "archived_at": "2026-02-21T10:24:51.223633"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_0"
+        },
+        "archived_at": "2026-02-21T10:24:58.543081"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_1"
+        },
+        "archived_at": "2026-02-21T10:24:58.591437"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_2"
+        },
+        "archived_at": "2026-02-21T10:24:58.707501"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_3"
+        },
+        "archived_at": "2026-02-21T10:24:59.490280"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_4"
+        },
+        "archived_at": "2026-02-21T10:24:59.603031"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_5"
+        },
+        "archived_at": "2026-02-21T10:24:59.679940"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_6"
+        },
+        "archived_at": "2026-02-21T10:24:59.748510"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_7"
+        },
+        "archived_at": "2026-02-21T10:24:59.818032"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_8"
+        },
+        "archived_at": "2026-02-21T10:24:59.889057"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_9"
+        },
+        "archived_at": "2026-02-21T10:24:59.957039"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_10"
+        },
+        "archived_at": "2026-02-21T10:25:00.027098"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_11"
+        },
+        "archived_at": "2026-02-21T10:25:00.103185"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_12"
+        },
+        "archived_at": "2026-02-21T10:25:00.186062"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_13"
+        },
+        "archived_at": "2026-02-21T10:25:00.255862"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_14"
+        },
+        "archived_at": "2026-02-21T10:25:00.363626"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_15"
+        },
+        "archived_at": "2026-02-21T10:25:00.437012"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_16"
+        },
+        "archived_at": "2026-02-21T10:25:00.938741"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_17"
+        },
+        "archived_at": "2026-02-21T10:25:00.998058"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_18"
+        },
+        "archived_at": "2026-02-21T10:25:01.055741"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_19"
+        },
+        "archived_at": "2026-02-21T10:25:01.108593"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_20"
+        },
+        "archived_at": "2026-02-21T10:25:01.164477"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_21"
+        },
+        "archived_at": "2026-02-21T10:25:01.255688"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_22"
+        },
+        "archived_at": "2026-02-21T10:25:01.441999"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_23"
+        },
+        "archived_at": "2026-02-21T10:25:01.555872"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_24"
+        },
+        "archived_at": "2026-02-21T10:25:01.615172"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_25"
+        },
+        "archived_at": "2026-02-21T10:25:01.694194"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_26"
+        },
+        "archived_at": "2026-02-21T10:25:01.754299"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_27"
+        },
+        "archived_at": "2026-02-21T10:25:01.814724"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_28"
+        },
+        "archived_at": "2026-02-21T10:25:01.880918"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_29"
+        },
+        "archived_at": "2026-02-21T10:25:01.939063"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_30"
+        },
+        "archived_at": "2026-02-21T10:25:02.507881"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_31"
+        },
+        "archived_at": "2026-02-21T10:25:02.664230"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_32"
+        },
+        "archived_at": "2026-02-21T10:25:02.715778"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_33"
+        },
+        "archived_at": "2026-02-21T10:25:02.788711"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_34"
+        },
+        "archived_at": "2026-02-21T10:25:02.847416"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_35"
+        },
+        "archived_at": "2026-02-21T10:25:02.927532"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_36"
+        },
+        "archived_at": "2026-02-21T10:25:02.982532"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_37"
+        },
+        "archived_at": "2026-02-21T10:25:03.060300"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_38"
+        },
+        "archived_at": "2026-02-21T10:25:03.233605"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_39"
+        },
+        "archived_at": "2026-02-21T10:25:03.455814"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_40"
+        },
+        "archived_at": "2026-02-21T10:25:03.951667"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_41"
+        },
+        "archived_at": "2026-02-21T10:25:04.028561"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_42"
+        },
+        "archived_at": "2026-02-21T10:25:04.104257"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_43"
+        },
+        "archived_at": "2026-02-21T10:25:04.186461"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_44"
+        },
+        "archived_at": "2026-02-21T10:25:04.246167"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_45"
+        },
+        "archived_at": "2026-02-21T10:25:04.299073"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_46"
+        },
+        "archived_at": "2026-02-21T10:25:04.355012"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_47"
+        },
+        "archived_at": "2026-02-21T10:25:04.421269"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_48"
+        },
+        "archived_at": "2026-02-21T10:25:04.481959"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_49"
+        },
+        "archived_at": "2026-02-21T10:25:04.537659"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_1",
+        "archived_at": "2026-02-21T10:26:18.045891"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_X",
+        "archived_at": "2026-02-21T10:26:18.142517"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_A",
+        "archived_at": "2026-02-21T10:26:18.256193"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_B",
+        "archived_at": "2026-02-21T10:26:18.288422"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_1",
+        "archived_at": "2026-02-21T10:26:18.444034"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_0"
+        },
+        "archived_at": "2026-02-21T10:26:26.579626"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_1"
+        },
+        "archived_at": "2026-02-21T10:26:27.037871"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_2"
+        },
+        "archived_at": "2026-02-21T10:26:27.352446"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_3"
+        },
+        "archived_at": "2026-02-21T10:26:27.420995"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_4"
+        },
+        "archived_at": "2026-02-21T10:26:27.482628"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_5"
+        },
+        "archived_at": "2026-02-21T10:26:27.536752"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_6"
+        },
+        "archived_at": "2026-02-21T10:26:27.612103"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_7"
+        },
+        "archived_at": "2026-02-21T10:26:27.675822"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_8"
+        },
+        "archived_at": "2026-02-21T10:26:27.732182"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_9"
+        },
+        "archived_at": "2026-02-21T10:26:27.815928"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_10"
+        },
+        "archived_at": "2026-02-21T10:26:27.899033"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_11"
+        },
+        "archived_at": "2026-02-21T10:26:28.767633"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_12"
+        },
+        "archived_at": "2026-02-21T10:26:28.878583"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_13"
+        },
+        "archived_at": "2026-02-21T10:26:28.948812"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_14"
+        },
+        "archived_at": "2026-02-21T10:26:29.008853"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_15"
+        },
+        "archived_at": "2026-02-21T10:26:29.082250"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_16"
+        },
+        "archived_at": "2026-02-21T10:26:29.149384"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_17"
+        },
+        "archived_at": "2026-02-21T10:26:29.222054"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_18"
+        },
+        "archived_at": "2026-02-21T10:26:29.284377"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_19"
+        },
+        "archived_at": "2026-02-21T10:26:29.345595"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_20"
+        },
+        "archived_at": "2026-02-21T10:26:29.397809"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_21"
+        },
+        "archived_at": "2026-02-21T10:26:29.467275"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_22"
+        },
+        "archived_at": "2026-02-21T10:26:29.532696"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_23"
+        },
+        "archived_at": "2026-02-21T10:26:29.599579"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_24"
+        },
+        "archived_at": "2026-02-21T10:26:29.661795"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_25"
+        },
+        "archived_at": "2026-02-21T10:26:29.731103"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_26"
+        },
+        "archived_at": "2026-02-21T10:26:30.142336"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_27"
+        },
+        "archived_at": "2026-02-21T10:26:30.282101"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_28"
+        },
+        "archived_at": "2026-02-21T10:26:30.349510"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_29"
+        },
+        "archived_at": "2026-02-21T10:26:30.411888"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_30"
+        },
+        "archived_at": "2026-02-21T10:26:30.471102"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_31"
+        },
+        "archived_at": "2026-02-21T10:26:30.566425"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_32"
+        },
+        "archived_at": "2026-02-21T10:26:30.640873"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_33"
+        },
+        "archived_at": "2026-02-21T10:26:30.699617"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_34"
+        },
+        "archived_at": "2026-02-21T10:26:30.761434"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_35"
+        },
+        "archived_at": "2026-02-21T10:26:30.833728"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_36"
+        },
+        "archived_at": "2026-02-21T10:26:30.954118"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_37"
+        },
+        "archived_at": "2026-02-21T10:26:31.030171"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_38"
+        },
+        "archived_at": "2026-02-21T10:26:31.099301"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_39"
+        },
+        "archived_at": "2026-02-21T10:26:31.172700"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_40"
+        },
+        "archived_at": "2026-02-21T10:26:31.686784"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_41"
+        },
+        "archived_at": "2026-02-21T10:26:31.759374"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_42"
+        },
+        "archived_at": "2026-02-21T10:26:31.856326"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_43"
+        },
+        "archived_at": "2026-02-21T10:26:31.926436"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_44"
+        },
+        "archived_at": "2026-02-21T10:26:32.002405"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_45"
+        },
+        "archived_at": "2026-02-21T10:26:32.061590"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_46"
+        },
+        "archived_at": "2026-02-21T10:26:32.134467"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_47"
+        },
+        "archived_at": "2026-02-21T10:26:32.196592"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_48"
+        },
+        "archived_at": "2026-02-21T10:26:32.266545"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_49"
+        },
+        "archived_at": "2026-02-21T10:26:32.339424"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_A",
+        "archived_at": "2026-02-21T10:28:02.845295"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_B",
+        "archived_at": "2026-02-21T10:28:02.883997"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_1",
+        "archived_at": "2026-02-21T10:28:18.624595"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_X",
+        "archived_at": "2026-02-21T10:28:18.697911"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_A",
+        "archived_at": "2026-02-21T10:28:18.784153"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_B",
+        "archived_at": "2026-02-21T10:28:18.798988"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_1",
+        "archived_at": "2026-02-21T10:28:18.902384"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_0"
+        },
+        "archived_at": "2026-02-21T10:28:22.153242"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_1"
+        },
+        "archived_at": "2026-02-21T10:28:22.201485"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_2"
+        },
+        "archived_at": "2026-02-21T10:28:22.264461"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_3"
+        },
+        "archived_at": "2026-02-21T10:28:22.333685"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_4"
+        },
+        "archived_at": "2026-02-21T10:28:22.442437"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_5"
+        },
+        "archived_at": "2026-02-21T10:28:22.663884"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_6"
+        },
+        "archived_at": "2026-02-21T10:28:22.966874"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_7"
+        },
+        "archived_at": "2026-02-21T10:28:23.091192"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_8"
+        },
+        "archived_at": "2026-02-21T10:28:23.167645"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_9"
+        },
+        "archived_at": "2026-02-21T10:28:23.225051"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_10"
+        },
+        "archived_at": "2026-02-21T10:28:23.292113"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_11"
+        },
+        "archived_at": "2026-02-21T10:28:23.364556"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_12"
+        },
+        "archived_at": "2026-02-21T10:28:23.454382"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_13"
+        },
+        "archived_at": "2026-02-21T10:28:23.533256"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_14"
+        },
+        "archived_at": "2026-02-21T10:28:23.604480"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_15"
+        },
+        "archived_at": "2026-02-21T10:28:23.671116"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_16"
+        },
+        "archived_at": "2026-02-21T10:28:23.735520"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_17"
+        },
+        "archived_at": "2026-02-21T10:28:23.809430"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_18"
+        },
+        "archived_at": "2026-02-21T10:28:23.897172"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_19"
+        },
+        "archived_at": "2026-02-21T10:28:24.497021"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_20"
+        },
+        "archived_at": "2026-02-21T10:28:24.735402"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_21"
+        },
+        "archived_at": "2026-02-21T10:28:24.826493"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_22"
+        },
+        "archived_at": "2026-02-21T10:28:24.898137"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_23"
+        },
+        "archived_at": "2026-02-21T10:28:24.943907"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_24"
+        },
+        "archived_at": "2026-02-21T10:28:25.038398"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_25"
+        },
+        "archived_at": "2026-02-21T10:28:25.104697"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_26"
+        },
+        "archived_at": "2026-02-21T10:28:25.189677"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_27"
+        },
+        "archived_at": "2026-02-21T10:28:25.244329"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_28"
+        },
+        "archived_at": "2026-02-21T10:28:25.311551"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_29"
+        },
+        "archived_at": "2026-02-21T10:28:25.411487"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_30"
+        },
+        "archived_at": "2026-02-21T10:28:25.491301"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_31"
+        },
+        "archived_at": "2026-02-21T10:28:25.543768"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_32"
+        },
+        "archived_at": "2026-02-21T10:28:25.624510"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_33"
+        },
+        "archived_at": "2026-02-21T10:28:25.711160"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_34"
+        },
+        "archived_at": "2026-02-21T10:28:26.360240"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_35"
+        },
+        "archived_at": "2026-02-21T10:28:26.591739"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_36"
+        },
+        "archived_at": "2026-02-21T10:28:26.644378"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_37"
+        },
+        "archived_at": "2026-02-21T10:28:26.725783"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_38"
+        },
+        "archived_at": "2026-02-21T10:28:26.777718"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_39"
+        },
+        "archived_at": "2026-02-21T10:28:26.841735"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_40"
+        },
+        "archived_at": "2026-02-21T10:28:26.891737"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_41"
+        },
+        "archived_at": "2026-02-21T10:28:26.947147"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_42"
+        },
+        "archived_at": "2026-02-21T10:28:26.997968"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_43"
+        },
+        "archived_at": "2026-02-21T10:28:27.044317"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_44"
+        },
+        "archived_at": "2026-02-21T10:28:27.092855"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_45"
+        },
+        "archived_at": "2026-02-21T10:28:27.165929"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_46"
+        },
+        "archived_at": "2026-02-21T10:28:27.230629"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_47"
+        },
+        "archived_at": "2026-02-21T10:28:27.300055"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_48"
+        },
+        "archived_at": "2026-02-21T10:28:27.818116"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_49"
+        },
+        "archived_at": "2026-02-21T10:28:28.102281"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_1",
+        "archived_at": "2026-02-21T10:29:47.546085"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_X",
+        "archived_at": "2026-02-21T10:29:47.613599"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_A",
+        "archived_at": "2026-02-21T10:29:47.690280"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_B",
+        "archived_at": "2026-02-21T10:29:47.694767"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_1",
+        "archived_at": "2026-02-21T10:29:47.787514"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_0"
+        },
+        "archived_at": "2026-02-21T10:29:51.546338"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_1"
+        },
+        "archived_at": "2026-02-21T10:29:51.588165"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_2"
+        },
+        "archived_at": "2026-02-21T10:29:51.660026"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_3"
+        },
+        "archived_at": "2026-02-21T10:29:51.711026"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_4"
+        },
+        "archived_at": "2026-02-21T10:29:51.762531"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_5"
+        },
+        "archived_at": "2026-02-21T10:29:51.811209"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_6"
+        },
+        "archived_at": "2026-02-21T10:29:51.867272"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_7"
+        },
+        "archived_at": "2026-02-21T10:29:51.914726"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_8"
+        },
+        "archived_at": "2026-02-21T10:29:51.962524"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_9"
+        },
+        "archived_at": "2026-02-21T10:29:52.039714"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_10"
+        },
+        "archived_at": "2026-02-21T10:29:52.086445"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_11"
+        },
+        "archived_at": "2026-02-21T10:29:52.148517"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_12"
+        },
+        "archived_at": "2026-02-21T10:29:52.284062"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_13"
+        },
+        "archived_at": "2026-02-21T10:29:52.805875"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_14"
+        },
+        "archived_at": "2026-02-21T10:29:52.975080"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_15"
+        },
+        "archived_at": "2026-02-21T10:29:53.050809"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_16"
+        },
+        "archived_at": "2026-02-21T10:29:53.109013"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_17"
+        },
+        "archived_at": "2026-02-21T10:29:53.159947"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_18"
+        },
+        "archived_at": "2026-02-21T10:29:53.207612"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_19"
+        },
+        "archived_at": "2026-02-21T10:29:53.264432"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_20"
+        },
+        "archived_at": "2026-02-21T10:29:53.315207"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_21"
+        },
+        "archived_at": "2026-02-21T10:29:53.363736"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_22"
+        },
+        "archived_at": "2026-02-21T10:29:53.410348"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_23"
+        },
+        "archived_at": "2026-02-21T10:29:53.457274"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_24"
+        },
+        "archived_at": "2026-02-21T10:29:53.599375"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_25"
+        },
+        "archived_at": "2026-02-21T10:29:53.651869"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_26"
+        },
+        "archived_at": "2026-02-21T10:29:53.706495"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_27"
+        },
+        "archived_at": "2026-02-21T10:29:53.755776"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_28"
+        },
+        "archived_at": "2026-02-21T10:29:53.804388"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_29"
+        },
+        "archived_at": "2026-02-21T10:29:53.887674"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_30"
+        },
+        "archived_at": "2026-02-21T10:29:54.286069"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_31"
+        },
+        "archived_at": "2026-02-21T10:29:54.449445"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_32"
+        },
+        "archived_at": "2026-02-21T10:29:54.500253"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_33"
+        },
+        "archived_at": "2026-02-21T10:29:54.574161"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_34"
+        },
+        "archived_at": "2026-02-21T10:29:54.630015"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_35"
+        },
+        "archived_at": "2026-02-21T10:29:54.684574"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_36"
+        },
+        "archived_at": "2026-02-21T10:29:54.732912"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_37"
+        },
+        "archived_at": "2026-02-21T10:29:54.782945"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_38"
+        },
+        "archived_at": "2026-02-21T10:29:54.864336"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_39"
+        },
+        "archived_at": "2026-02-21T10:29:54.923509"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_40"
+        },
+        "archived_at": "2026-02-21T10:29:54.978209"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_41"
+        },
+        "archived_at": "2026-02-21T10:29:55.031191"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_42"
+        },
+        "archived_at": "2026-02-21T10:29:55.083815"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_43"
+        },
+        "archived_at": "2026-02-21T10:29:55.144388"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_44"
+        },
+        "archived_at": "2026-02-21T10:29:55.226591"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_45"
+        },
+        "archived_at": "2026-02-21T10:29:55.284715"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_46"
+        },
+        "archived_at": "2026-02-21T10:29:55.341983"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_47"
+        },
+        "archived_at": "2026-02-21T10:29:55.491583"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_48"
+        },
+        "archived_at": "2026-02-21T10:29:55.545582"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_49"
+        },
+        "archived_at": "2026-02-21T10:29:55.613163"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_0"
+        },
+        "archived_at": "2026-02-21T10:41:41.300490"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_1"
+        },
+        "archived_at": "2026-02-21T10:41:41.356496"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_2"
+        },
+        "archived_at": "2026-02-21T10:41:41.413524"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_3"
+        },
+        "archived_at": "2026-02-21T10:41:41.461275"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_4"
+        },
+        "archived_at": "2026-02-21T10:41:41.841718"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_5"
+        },
+        "archived_at": "2026-02-21T10:41:42.028003"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_6"
+        },
+        "archived_at": "2026-02-21T10:41:42.092573"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_7"
+        },
+        "archived_at": "2026-02-21T10:41:42.176654"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_8"
+        },
+        "archived_at": "2026-02-21T10:41:42.233183"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_9"
+        },
+        "archived_at": "2026-02-21T10:41:42.291026"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_10"
+        },
+        "archived_at": "2026-02-21T10:41:42.346208"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_11"
+        },
+        "archived_at": "2026-02-21T10:41:42.416556"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_12"
+        },
+        "archived_at": "2026-02-21T10:41:42.481374"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_13"
+        },
+        "archived_at": "2026-02-21T10:41:42.574711"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_14"
+        },
+        "archived_at": "2026-02-21T10:41:42.660100"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_15"
+        },
+        "archived_at": "2026-02-21T10:41:42.717296"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_16"
+        },
+        "archived_at": "2026-02-21T10:41:42.771058"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_17"
+        },
+        "archived_at": "2026-02-21T10:41:42.825762"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_18"
+        },
+        "archived_at": "2026-02-21T10:41:42.925800"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_19"
+        },
+        "archived_at": "2026-02-21T10:41:43.285677"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_20"
+        },
+        "archived_at": "2026-02-21T10:41:43.375472"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_21"
+        },
+        "archived_at": "2026-02-21T10:41:43.460305"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_22"
+        },
+        "archived_at": "2026-02-21T10:41:43.516670"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_23"
+        },
+        "archived_at": "2026-02-21T10:41:43.568749"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_24"
+        },
+        "archived_at": "2026-02-21T10:41:43.626204"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_25"
+        },
+        "archived_at": "2026-02-21T10:41:43.690533"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_26"
+        },
+        "archived_at": "2026-02-21T10:41:43.752220"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_27"
+        },
+        "archived_at": "2026-02-21T10:41:43.808466"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_28"
+        },
+        "archived_at": "2026-02-21T10:41:43.895360"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_29"
+        },
+        "archived_at": "2026-02-21T10:41:43.956231"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_30"
+        },
+        "archived_at": "2026-02-21T10:41:44.016280"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_31"
+        },
+        "archived_at": "2026-02-21T10:41:44.072353"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_32"
+        },
+        "archived_at": "2026-02-21T10:41:44.129981"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_33"
+        },
+        "archived_at": "2026-02-21T10:41:44.185521"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_34"
+        },
+        "archived_at": "2026-02-21T10:41:44.246726"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_35"
+        },
+        "archived_at": "2026-02-21T10:41:44.601336"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_36"
+        },
+        "archived_at": "2026-02-21T10:41:44.935128"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_37"
+        },
+        "archived_at": "2026-02-21T10:41:45.006510"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_38"
+        },
+        "archived_at": "2026-02-21T10:41:45.095674"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_39"
+        },
+        "archived_at": "2026-02-21T10:41:45.157759"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_40"
+        },
+        "archived_at": "2026-02-21T10:41:45.209255"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_41"
+        },
+        "archived_at": "2026-02-21T10:41:45.272615"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_42"
+        },
+        "archived_at": "2026-02-21T10:41:45.331932"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_43"
+        },
+        "archived_at": "2026-02-21T10:41:45.410454"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_44"
+        },
+        "archived_at": "2026-02-21T10:41:45.466305"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_45"
+        },
+        "archived_at": "2026-02-21T10:41:45.548784"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_46"
+        },
+        "archived_at": "2026-02-21T10:41:45.602113"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_47"
+        },
+        "archived_at": "2026-02-21T10:41:45.656361"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_48"
+        },
+        "archived_at": "2026-02-21T10:41:45.718997"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": {
+            "evidence": "data_49"
+        },
+        "archived_at": "2026-02-21T10:41:45.784876"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_#456",
+        "archived_at": "2026-02-21T10:51:26.998655"
+    }
+]

@@ -1,0 +1,1147 @@
+[
+    {
+        "collapse_id": "f1d5cd6f-a70d-4f2c-888d-229f227d7746",
+        "timestamp": "2026-02-21T10:29:47.694767",
+        "previous_state": "Ambiguous",
+        "new_state": "Unknown",
+        "evidence_reference": "Signal_A",
+        "previous_hash": "GENESIS",
+        "event_hash": "ddb257b73b5a31a5875557d81239f6e29eeced8ddf22ce28026fd3778e2369c8"
+    },
+    {
+        "collapse_id": "decd24bb-ce45-4d69-9623-1c1293b1f834",
+        "timestamp": "2026-02-21T10:29:47.739316",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": "Signal_B",
+        "previous_hash": "ddb257b73b5a31a5875557d81239f6e29eeced8ddf22ce28026fd3778e2369c8",
+        "event_hash": "780212b9c7b5a2eea4bd67b4832dc443e0bad7d78ac46a126f1656730ed5f717"
+    },
+    {
+        "collapse_id": "1d3f88ec-5503-4934-8bac-fab87d93ed09",
+        "timestamp": "2026-02-21T10:29:47.755149",
+        "previous_state": "Inferred",
+        "new_state": "Known",
+        "evidence_reference": "Signal_C",
+        "previous_hash": "780212b9c7b5a2eea4bd67b4832dc443e0bad7d78ac46a126f1656730ed5f717",
+        "event_hash": "5eee97ae8c4166aa3b7ff574499a52170630c51a783ba4274e72f57ec0346820"
+    },
+    {
+        "collapse_id": "3557a60f-6bab-413b-87f1-703aab51bcba",
+        "timestamp": "2026-02-21T10:29:47.846691",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": "Signal_1",
+        "previous_hash": "5eee97ae8c4166aa3b7ff574499a52170630c51a783ba4274e72f57ec0346820",
+        "event_hash": "a70bd55852d50f55c168da1cbb532ac3d179c67f417fdcea12fedeede632c86b"
+    },
+    {
+        "collapse_id": "b3726907-bd89-451e-9818-90e6c499300e",
+        "timestamp": "2026-02-21T10:29:51.586287",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_0"
+        },
+        "previous_hash": "a70bd55852d50f55c168da1cbb532ac3d179c67f417fdcea12fedeede632c86b",
+        "event_hash": "2d902bf2cebed758b3b1c62e2bf68aa9c7518656dacbe81c152809b82c87dcee"
+    },
+    {
+        "collapse_id": "7c2991bf-d3e7-47b8-9ee6-4a7e0d23dcb5",
+        "timestamp": "2026-02-21T10:29:51.623276",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_1"
+        },
+        "previous_hash": "2d902bf2cebed758b3b1c62e2bf68aa9c7518656dacbe81c152809b82c87dcee",
+        "event_hash": "578d86d962169e08024f93623b4ed6ae10d5ec87b412c7d8d30947479c88e993"
+    },
+    {
+        "collapse_id": "032c9d75-f3c7-490e-86c5-fb918d53fb7c",
+        "timestamp": "2026-02-21T10:29:51.690628",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_2"
+        },
+        "previous_hash": "578d86d962169e08024f93623b4ed6ae10d5ec87b412c7d8d30947479c88e993",
+        "event_hash": "9226d73281568d6420ef6e0e8da89071c7b49cccc489945e0b3f26ae8b52d2ab"
+    },
+    {
+        "collapse_id": "b117e5bd-5509-47e4-8ae4-534e787a1ce3",
+        "timestamp": "2026-02-21T10:29:51.742202",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_3"
+        },
+        "previous_hash": "9226d73281568d6420ef6e0e8da89071c7b49cccc489945e0b3f26ae8b52d2ab",
+        "event_hash": "2fc8469fa49d7ce9205f987efc85d3cdc47503735832e15ee90c3dc8a5221b93"
+    },
+    {
+        "collapse_id": "254db46f-e124-4b87-a2af-0324d3951eef",
+        "timestamp": "2026-02-21T10:29:51.791177",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_4"
+        },
+        "previous_hash": "2fc8469fa49d7ce9205f987efc85d3cdc47503735832e15ee90c3dc8a5221b93",
+        "event_hash": "d7cce3dce80110685921a4390daeb33d7cd9cef07acac66864a6d230bd99c5f6"
+    },
+    {
+        "collapse_id": "b5369103-fd86-4795-a6b8-17390f45727e",
+        "timestamp": "2026-02-21T10:29:51.843382",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_5"
+        },
+        "previous_hash": "d7cce3dce80110685921a4390daeb33d7cd9cef07acac66864a6d230bd99c5f6",
+        "event_hash": "a67a5bf7c58f985c0ce02d4fca8156301085ebca9f45a57eb177e33116cea948"
+    },
+    {
+        "collapse_id": "2170a4a1-56bd-4128-9acc-b6e809e5b40b",
+        "timestamp": "2026-02-21T10:29:51.897217",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_6"
+        },
+        "previous_hash": "a67a5bf7c58f985c0ce02d4fca8156301085ebca9f45a57eb177e33116cea948",
+        "event_hash": "97af2d2306b008fdaeb86ee08a77da4ea55857da0b04520dcccbc8c771ea3a5b"
+    },
+    {
+        "collapse_id": "5117d198-ce91-4cc1-8572-68ed6b3dce54",
+        "timestamp": "2026-02-21T10:29:51.947292",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_7"
+        },
+        "previous_hash": "97af2d2306b008fdaeb86ee08a77da4ea55857da0b04520dcccbc8c771ea3a5b",
+        "event_hash": "ce042f54aecf942fad6f4fa391733000c054050500ccb550d05aa9547cc3cb7d"
+    },
+    {
+        "collapse_id": "dffe15f7-3cd7-4e84-ae24-5ae2d4ab5fa3",
+        "timestamp": "2026-02-21T10:29:52.017829",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_8"
+        },
+        "previous_hash": "ce042f54aecf942fad6f4fa391733000c054050500ccb550d05aa9547cc3cb7d",
+        "event_hash": "e862fbb65c5f65556a33d3809c378142f042a8a43f7e5f1dd8073efb49ffec72"
+    },
+    {
+        "collapse_id": "9061ad2f-6881-49ba-b172-90707ae30690",
+        "timestamp": "2026-02-21T10:29:52.065220",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_9"
+        },
+        "previous_hash": "e862fbb65c5f65556a33d3809c378142f042a8a43f7e5f1dd8073efb49ffec72",
+        "event_hash": "4eea5daeecd171e75a4169c649500d20cd3911dd3d99b1f001075a6b616515a1"
+    },
+    {
+        "collapse_id": "af97810f-4b96-4290-a348-cc55be4b507a",
+        "timestamp": "2026-02-21T10:29:52.120352",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_10"
+        },
+        "previous_hash": "4eea5daeecd171e75a4169c649500d20cd3911dd3d99b1f001075a6b616515a1",
+        "event_hash": "8c89b53bf8bcd26aa7cad8eea996aa23d2346437585638fca22486290abae53c"
+    },
+    {
+        "collapse_id": "b76997c4-dc13-464e-8f2e-128e8867e856",
+        "timestamp": "2026-02-21T10:29:52.176903",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_11"
+        },
+        "previous_hash": "8c89b53bf8bcd26aa7cad8eea996aa23d2346437585638fca22486290abae53c",
+        "event_hash": "ee2400b27ba03dd962b31da487f26ac6542dbec80308332a9d13b824c3cd34ad"
+    },
+    {
+        "collapse_id": "851a33dc-4ce5-4499-8bbd-b787274c9163",
+        "timestamp": "2026-02-21T10:29:52.325864",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_12"
+        },
+        "previous_hash": "ee2400b27ba03dd962b31da487f26ac6542dbec80308332a9d13b824c3cd34ad",
+        "event_hash": "bd046a5b056f4d18f67e2ea42b912e67bd06399d9426777d3e7fae0be7f9e17c"
+    },
+    {
+        "collapse_id": "ec51ad46-4535-4cf2-aac6-7edf4d42ee41",
+        "timestamp": "2026-02-21T10:29:52.952145",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_13"
+        },
+        "previous_hash": "bd046a5b056f4d18f67e2ea42b912e67bd06399d9426777d3e7fae0be7f9e17c",
+        "event_hash": "caa5f06f85a63bf1c3966979ba839998a58d808972a8162a77ad46930ef9d4f3"
+    },
+    {
+        "collapse_id": "d8170c57-11fd-4818-b909-b2039db2da98",
+        "timestamp": "2026-02-21T10:29:53.017559",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_14"
+        },
+        "previous_hash": "caa5f06f85a63bf1c3966979ba839998a58d808972a8162a77ad46930ef9d4f3",
+        "event_hash": "7cbf8c8c9a65627700b3348af531e55fb23edfa1d28a2cd4adbce12e534e7d2e"
+    },
+    {
+        "collapse_id": "1e4bfb50-139b-45df-9b54-d8882ff06b1c",
+        "timestamp": "2026-02-21T10:29:53.090688",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_15"
+        },
+        "previous_hash": "7cbf8c8c9a65627700b3348af531e55fb23edfa1d28a2cd4adbce12e534e7d2e",
+        "event_hash": "66ae1f441992622eb7d1afefe1f041ebdcbc7e3045e2e4622bb26292a096d02c"
+    },
+    {
+        "collapse_id": "7c042392-a823-4f6b-ab12-9e2b8a7fd390",
+        "timestamp": "2026-02-21T10:29:53.141840",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_16"
+        },
+        "previous_hash": "66ae1f441992622eb7d1afefe1f041ebdcbc7e3045e2e4622bb26292a096d02c",
+        "event_hash": "d000f31cf24e5f7622963bbe60744cfeabc1439172d572a0e1fc6d7fb9fd924f"
+    },
+    {
+        "collapse_id": "73d53af1-7e1d-48b3-869a-97d14e827220",
+        "timestamp": "2026-02-21T10:29:53.190967",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_17"
+        },
+        "previous_hash": "d000f31cf24e5f7622963bbe60744cfeabc1439172d572a0e1fc6d7fb9fd924f",
+        "event_hash": "fe8f287d2e01886edf7726064c57d3c2f9c3dc9be40cd74d1750095d1ec8f6e1"
+    },
+    {
+        "collapse_id": "6c64e3a5-327e-44db-9d64-435a9fe5a70a",
+        "timestamp": "2026-02-21T10:29:53.246458",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_18"
+        },
+        "previous_hash": "fe8f287d2e01886edf7726064c57d3c2f9c3dc9be40cd74d1750095d1ec8f6e1",
+        "event_hash": "523bebcd46a967092908874511264e73e1e0bd6786c6bad147ae1870386dcb14"
+    },
+    {
+        "collapse_id": "e00e8bd0-85f2-4cb6-95f7-7cccd4cf9c5a",
+        "timestamp": "2026-02-21T10:29:53.292624",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_19"
+        },
+        "previous_hash": "523bebcd46a967092908874511264e73e1e0bd6786c6bad147ae1870386dcb14",
+        "event_hash": "fa324064e410cac6daf38c78e066314b378414d5acdbdff4c2c98075ead7ea62"
+    },
+    {
+        "collapse_id": "f4442b31-40a9-4b2f-b8c5-7fb426f4076c",
+        "timestamp": "2026-02-21T10:29:53.336289",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_20"
+        },
+        "previous_hash": "fa324064e410cac6daf38c78e066314b378414d5acdbdff4c2c98075ead7ea62",
+        "event_hash": "56877d3a29db2976d1af7dbe2d839bb761e1fdc539fa4b1bcb45b0cb3c17277c"
+    },
+    {
+        "collapse_id": "71aeb9cc-9970-489e-bc9f-6d665bbda480",
+        "timestamp": "2026-02-21T10:29:53.391527",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_21"
+        },
+        "previous_hash": "56877d3a29db2976d1af7dbe2d839bb761e1fdc539fa4b1bcb45b0cb3c17277c",
+        "event_hash": "328a6ca96f95d21d711e4be02895e749439f76c1910b42b9cb86bddad8910b6b"
+    },
+    {
+        "collapse_id": "eac34592-10d8-4d83-8cc2-cab91bb0a381",
+        "timestamp": "2026-02-21T10:29:53.437209",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_22"
+        },
+        "previous_hash": "328a6ca96f95d21d711e4be02895e749439f76c1910b42b9cb86bddad8910b6b",
+        "event_hash": "0089c8f8ccdb5ca4716e081d32e8f10c6b56070653d1b8c7d4ffc03e466d0e0f"
+    },
+    {
+        "collapse_id": "252b4972-af77-459e-9c03-64c6204d6de0",
+        "timestamp": "2026-02-21T10:29:53.482184",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_23"
+        },
+        "previous_hash": "0089c8f8ccdb5ca4716e081d32e8f10c6b56070653d1b8c7d4ffc03e466d0e0f",
+        "event_hash": "3f0989098ba4006639c05e732004d7ff5c610fdc1fe192ad1aca9c0770d3c807"
+    },
+    {
+        "collapse_id": "7a7fe187-7388-4d03-b86b-b368981455d5",
+        "timestamp": "2026-02-21T10:29:53.632109",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_24"
+        },
+        "previous_hash": "3f0989098ba4006639c05e732004d7ff5c610fdc1fe192ad1aca9c0770d3c807",
+        "event_hash": "bd6d6e31a6c5a707756609e76c74c15e6e10ef1fe8a52abbb49caf72c2c39a9a"
+    },
+    {
+        "collapse_id": "cf1ad079-91dd-49d3-881c-6953775d3235",
+        "timestamp": "2026-02-21T10:29:53.685359",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_25"
+        },
+        "previous_hash": "bd6d6e31a6c5a707756609e76c74c15e6e10ef1fe8a52abbb49caf72c2c39a9a",
+        "event_hash": "11757dc462dcd844472889bae36caa752e9cb93e4a083ed1e84482a32a1d743c"
+    },
+    {
+        "collapse_id": "8b5defbc-785e-4c93-bd6b-4785b8337085",
+        "timestamp": "2026-02-21T10:29:53.735385",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_26"
+        },
+        "previous_hash": "11757dc462dcd844472889bae36caa752e9cb93e4a083ed1e84482a32a1d743c",
+        "event_hash": "7a1d9483a7d9a9293ed64cc969ca5d9b05705353abd4ced750dd4bd2b410dfc8"
+    },
+    {
+        "collapse_id": "f55cb2b6-9a32-4a79-b387-5219927d64ed",
+        "timestamp": "2026-02-21T10:29:53.786036",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_27"
+        },
+        "previous_hash": "7a1d9483a7d9a9293ed64cc969ca5d9b05705353abd4ced750dd4bd2b410dfc8",
+        "event_hash": "b2a0c1895d0a56c392877a8a5109c4a4e509c1dfba97b0253a90eb3b07d672fe"
+    },
+    {
+        "collapse_id": "91656439-96ff-4b01-8b0d-5e1d1392a4a9",
+        "timestamp": "2026-02-21T10:29:53.836946",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_28"
+        },
+        "previous_hash": "b2a0c1895d0a56c392877a8a5109c4a4e509c1dfba97b0253a90eb3b07d672fe",
+        "event_hash": "9f7e87b5651c1a17372449a05656c7cdacd496ddeca66a6f7e40fac9fb4fad1b"
+    },
+    {
+        "collapse_id": "b1180c32-d9c6-4666-94be-b5176b96ae8e",
+        "timestamp": "2026-02-21T10:29:53.921434",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_29"
+        },
+        "previous_hash": "9f7e87b5651c1a17372449a05656c7cdacd496ddeca66a6f7e40fac9fb4fad1b",
+        "event_hash": "bf4f22e7ea931aad6b7ddfefd679861cf02902c56351ceb9041ee6b424e5dc73"
+    },
+    {
+        "collapse_id": "7763d175-e8c4-4344-b17d-8ee094f0239d",
+        "timestamp": "2026-02-21T10:29:54.426550",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_30"
+        },
+        "previous_hash": "bf4f22e7ea931aad6b7ddfefd679861cf02902c56351ceb9041ee6b424e5dc73",
+        "event_hash": "7a7ea1d0639b1f8b6dbe5ec856dfd01e2289f9f6a906b68ec4272e7f100562c3"
+    },
+    {
+        "collapse_id": "9bd072e7-9cd9-4141-afbc-e284a9209e57",
+        "timestamp": "2026-02-21T10:29:54.477819",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_31"
+        },
+        "previous_hash": "7a7ea1d0639b1f8b6dbe5ec856dfd01e2289f9f6a906b68ec4272e7f100562c3",
+        "event_hash": "26c78f243fb9b28f6fad13b9dc7512f5fef57ded73ebef55b1603116d8cd7627"
+    },
+    {
+        "collapse_id": "4a6eb702-b2f0-42d5-97aa-c0361a79e15c",
+        "timestamp": "2026-02-21T10:29:54.523342",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_32"
+        },
+        "previous_hash": "26c78f243fb9b28f6fad13b9dc7512f5fef57ded73ebef55b1603116d8cd7627",
+        "event_hash": "fa31b854653ff59a91804ec10eb2e048ff1722729e1895d8d1b2d3dd932da340"
+    },
+    {
+        "collapse_id": "de848e2a-4952-4d8a-9a2f-78680677f2e8",
+        "timestamp": "2026-02-21T10:29:54.609126",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_33"
+        },
+        "previous_hash": "fa31b854653ff59a91804ec10eb2e048ff1722729e1895d8d1b2d3dd932da340",
+        "event_hash": "9766e4e95e8914b1bc38bcc04990f684d113a050f93459ec5c6a85b7701c3771"
+    },
+    {
+        "collapse_id": "d5130b49-9228-4cf8-8551-21921e59daa5",
+        "timestamp": "2026-02-21T10:29:54.655352",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_34"
+        },
+        "previous_hash": "9766e4e95e8914b1bc38bcc04990f684d113a050f93459ec5c6a85b7701c3771",
+        "event_hash": "02ca973a1f5eed1532510052967d642a50b37a842d8de7887f58e02899183e31"
+    },
+    {
+        "collapse_id": "1376005b-be66-4f9a-86ff-aa8009fb32fb",
+        "timestamp": "2026-02-21T10:29:54.710380",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_35"
+        },
+        "previous_hash": "02ca973a1f5eed1532510052967d642a50b37a842d8de7887f58e02899183e31",
+        "event_hash": "ae573cedddcbbd7e052eac65c85b32595b5ce52a1bf8ec76ff5465a04f52bccb"
+    },
+    {
+        "collapse_id": "0c2e1e8a-7075-4776-b1b8-0e5f9df9982a",
+        "timestamp": "2026-02-21T10:29:54.763340",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_36"
+        },
+        "previous_hash": "ae573cedddcbbd7e052eac65c85b32595b5ce52a1bf8ec76ff5465a04f52bccb",
+        "event_hash": "317725c2154574a025b51492556e12a801d2707450edb86cabfdceb4f839f804"
+    },
+    {
+        "collapse_id": "ba15c70e-16cd-42f0-a119-7d50a28c48f1",
+        "timestamp": "2026-02-21T10:29:54.844307",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_37"
+        },
+        "previous_hash": "317725c2154574a025b51492556e12a801d2707450edb86cabfdceb4f839f804",
+        "event_hash": "97d611de5727342ac15b1e8bfc2e6c794a99054917f5bd8153cc32f8f05b78f3"
+    },
+    {
+        "collapse_id": "18f5ec40-cb53-4208-935f-5cba02245899",
+        "timestamp": "2026-02-21T10:29:54.898778",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_38"
+        },
+        "previous_hash": "97d611de5727342ac15b1e8bfc2e6c794a99054917f5bd8153cc32f8f05b78f3",
+        "event_hash": "723f5b344e923ee6ca4cd6d35b44a915e4fbb7020aeb46e652def1993a591d30"
+    },
+    {
+        "collapse_id": "ffa4565a-e2ca-40c1-af7a-40a363c27c37",
+        "timestamp": "2026-02-21T10:29:54.956627",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_39"
+        },
+        "previous_hash": "723f5b344e923ee6ca4cd6d35b44a915e4fbb7020aeb46e652def1993a591d30",
+        "event_hash": "3faf8b82686ce72b94a24531429da268ed6f9b3337b7263bd1633cb96a30b170"
+    },
+    {
+        "collapse_id": "0d5c5520-6c61-4af7-9a4c-fa318446cd4d",
+        "timestamp": "2026-02-21T10:29:55.009714",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_40"
+        },
+        "previous_hash": "3faf8b82686ce72b94a24531429da268ed6f9b3337b7263bd1633cb96a30b170",
+        "event_hash": "107a303988e707a51fe99149de5a658caaf2a274291a7df8e94ebc66c21088ae"
+    },
+    {
+        "collapse_id": "cfc0b873-4627-4eef-9719-889b6c6c5e77",
+        "timestamp": "2026-02-21T10:29:55.058396",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_41"
+        },
+        "previous_hash": "107a303988e707a51fe99149de5a658caaf2a274291a7df8e94ebc66c21088ae",
+        "event_hash": "0aa6c4fcdd157e412a3dcbe4cc520c10e74acb1872d7194d6c94c276c46225fc"
+    },
+    {
+        "collapse_id": "f047fbb0-1d44-4924-b7b5-5cdd2cf783b6",
+        "timestamp": "2026-02-21T10:29:55.120586",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_42"
+        },
+        "previous_hash": "0aa6c4fcdd157e412a3dcbe4cc520c10e74acb1872d7194d6c94c276c46225fc",
+        "event_hash": "d3ca656eb3717af7ae757e2f459e4e8ac66fbad80a3ef80998ca88ad8a1433f4"
+    },
+    {
+        "collapse_id": "c51de605-c0c2-424a-ad12-af1e0d9644d5",
+        "timestamp": "2026-02-21T10:29:55.176671",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_43"
+        },
+        "previous_hash": "d3ca656eb3717af7ae757e2f459e4e8ac66fbad80a3ef80998ca88ad8a1433f4",
+        "event_hash": "3c860abdeb3a31d7df7c4039bc01b57030705234d2865902cbdb0cce9554e8b1"
+    },
+    {
+        "collapse_id": "a4255516-e4ef-4730-8421-8b615dee51b4",
+        "timestamp": "2026-02-21T10:29:55.258717",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_44"
+        },
+        "previous_hash": "3c860abdeb3a31d7df7c4039bc01b57030705234d2865902cbdb0cce9554e8b1",
+        "event_hash": "dc8cd1bd7919b2ff85accda59c046019f52c4908edc2b7f508b8738c6002f6ef"
+    },
+    {
+        "collapse_id": "a07d1752-4d7a-4959-ad36-7f28aa1d4e5e",
+        "timestamp": "2026-02-21T10:29:55.317269",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_45"
+        },
+        "previous_hash": "dc8cd1bd7919b2ff85accda59c046019f52c4908edc2b7f508b8738c6002f6ef",
+        "event_hash": "3c93a9545aa8d4e34c964af337c36cc228a89d534cb2166a97ab4aa6064070b0"
+    },
+    {
+        "collapse_id": "c4324bf2-e245-4ef8-bd7b-201c2c33f8a9",
+        "timestamp": "2026-02-21T10:29:55.369680",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_46"
+        },
+        "previous_hash": "3c93a9545aa8d4e34c964af337c36cc228a89d534cb2166a97ab4aa6064070b0",
+        "event_hash": "933c81c76587028c9438470021c8e690e1524701f134673bb71cf1aae5661581"
+    },
+    {
+        "collapse_id": "49880e8e-b668-4455-af68-459a0a63674f",
+        "timestamp": "2026-02-21T10:29:55.521427",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_47"
+        },
+        "previous_hash": "933c81c76587028c9438470021c8e690e1524701f134673bb71cf1aae5661581",
+        "event_hash": "cc462aa420ade8dc88cac18b827e31d7f10739412c63a2b531accf161eb8f442"
+    },
+    {
+        "collapse_id": "47beddde-44b4-4461-8947-93a7fbbbf8a0",
+        "timestamp": "2026-02-21T10:29:55.578121",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_48"
+        },
+        "previous_hash": "cc462aa420ade8dc88cac18b827e31d7f10739412c63a2b531accf161eb8f442",
+        "event_hash": "1a37354f5b27a4ea0cc6ee6194d802779a17cc3ade987ca3d6a4e23f724d4972"
+    },
+    {
+        "collapse_id": "330167a1-b441-4f0c-9ce6-cbc7bbf8ddbb",
+        "timestamp": "2026-02-21T10:29:55.643307",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_49"
+        },
+        "previous_hash": "1a37354f5b27a4ea0cc6ee6194d802779a17cc3ade987ca3d6a4e23f724d4972",
+        "event_hash": "c6a98d9fd4acfd7ad4fceb0ae4f4b7e0137078651486d64521214dbc4e147b89"
+    },
+    {
+        "collapse_id": "ba5a3e95-0022-4711-8e6a-e880ca28c26f",
+        "timestamp": "2026-02-21T10:41:41.354491",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_0"
+        },
+        "previous_hash": "c6a98d9fd4acfd7ad4fceb0ae4f4b7e0137078651486d64521214dbc4e147b89",
+        "event_hash": "36d671844e0d5bd1f69398db35ff0bd6c5a72ea2c1f47d2f858fd72ae93fc945"
+    },
+    {
+        "collapse_id": "8663cb1e-ba2b-4433-b7a4-831e5daa61ce",
+        "timestamp": "2026-02-21T10:41:41.388069",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_1"
+        },
+        "previous_hash": "36d671844e0d5bd1f69398db35ff0bd6c5a72ea2c1f47d2f858fd72ae93fc945",
+        "event_hash": "73bf1129b4f537d2c0460f7f4960fffba908d7bd6aa83c73e92179e908591e34"
+    },
+    {
+        "collapse_id": "b29b801b-da28-4cda-8281-fcd6308f7a22",
+        "timestamp": "2026-02-21T10:41:41.429385",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_2"
+        },
+        "previous_hash": "73bf1129b4f537d2c0460f7f4960fffba908d7bd6aa83c73e92179e908591e34",
+        "event_hash": "1cee7754c1f000521e9843aa6d6d63f8ad7e398f52cd534e96226ded76822054"
+    },
+    {
+        "collapse_id": "68c218e9-83cb-4f2e-9fff-944caa29e715",
+        "timestamp": "2026-02-21T10:41:41.506223",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_3"
+        },
+        "previous_hash": "1cee7754c1f000521e9843aa6d6d63f8ad7e398f52cd534e96226ded76822054",
+        "event_hash": "018e120ff6e766d90809ea4f86df576ff59c37af4f9f812ad3522c0cf56c70d5"
+    },
+    {
+        "collapse_id": "a9ae5f56-d6c5-4a3f-beda-eb0325151b8c",
+        "timestamp": "2026-02-21T10:41:42.005309",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_4"
+        },
+        "previous_hash": "018e120ff6e766d90809ea4f86df576ff59c37af4f9f812ad3522c0cf56c70d5",
+        "event_hash": "089380bcd447deadabaa37b4043d46029c1ebd77406c2c7ed4f78860160ba68f"
+    },
+    {
+        "collapse_id": "f7fe38a8-9d5f-4c85-8ad3-ab1bff9f561e",
+        "timestamp": "2026-02-21T10:41:42.060482",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_5"
+        },
+        "previous_hash": "089380bcd447deadabaa37b4043d46029c1ebd77406c2c7ed4f78860160ba68f",
+        "event_hash": "40a8dd8d11e7fdd8a5176f9ad40bf06e4d00268733a813c4a4879f121e35570a"
+    },
+    {
+        "collapse_id": "13b80b1b-374f-43fc-b2be-0f3cbd88c67c",
+        "timestamp": "2026-02-21T10:41:42.148698",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_6"
+        },
+        "previous_hash": "40a8dd8d11e7fdd8a5176f9ad40bf06e4d00268733a813c4a4879f121e35570a",
+        "event_hash": "e334c79b0abf8af3881c0d19e77ea9042a3f4a0ecbd1df29663fef9015160e50"
+    },
+    {
+        "collapse_id": "ef132e62-3c29-44c4-9781-1e8a86a2d874",
+        "timestamp": "2026-02-21T10:41:42.212366",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_7"
+        },
+        "previous_hash": "e334c79b0abf8af3881c0d19e77ea9042a3f4a0ecbd1df29663fef9015160e50",
+        "event_hash": "153c9e2813ee4d04befc6eda6791ff027589ed6d10a452508221f4f41ba110b6"
+    },
+    {
+        "collapse_id": "d47f8e29-7a60-4af4-8949-e4f3f24cad72",
+        "timestamp": "2026-02-21T10:41:42.266974",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_8"
+        },
+        "previous_hash": "153c9e2813ee4d04befc6eda6791ff027589ed6d10a452508221f4f41ba110b6",
+        "event_hash": "27c712c69cb81d2300c2d6d990eafd9dfdff617a87fac390ec85dd5df9e2d2bf"
+    },
+    {
+        "collapse_id": "5d7504a1-e60f-4578-8808-5d8a525fe1e0",
+        "timestamp": "2026-02-21T10:41:42.320939",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_9"
+        },
+        "previous_hash": "27c712c69cb81d2300c2d6d990eafd9dfdff617a87fac390ec85dd5df9e2d2bf",
+        "event_hash": "e45b7c0ab28d93ed833d56203867281108b2b72480224f370a76fbebe771fec8"
+    },
+    {
+        "collapse_id": "932b5c21-d99a-4087-ac15-62e67bd93894",
+        "timestamp": "2026-02-21T10:41:42.402178",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_10"
+        },
+        "previous_hash": "e45b7c0ab28d93ed833d56203867281108b2b72480224f370a76fbebe771fec8",
+        "event_hash": "7c848a7c5b4320c301cd8c39c367f1e3204cba25a8cc80980447a98298f2a31f"
+    },
+    {
+        "collapse_id": "872b7593-053b-4169-b373-e39989bf236c",
+        "timestamp": "2026-02-21T10:41:42.447378",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_11"
+        },
+        "previous_hash": "7c848a7c5b4320c301cd8c39c367f1e3204cba25a8cc80980447a98298f2a31f",
+        "event_hash": "ccea0bcceb83ff52fddc1b68aa4b406957f061e634f477571fc214080ed8f843"
+    },
+    {
+        "collapse_id": "1abb0636-683b-4135-a814-cc9cba9658b7",
+        "timestamp": "2026-02-21T10:41:42.513232",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_12"
+        },
+        "previous_hash": "ccea0bcceb83ff52fddc1b68aa4b406957f061e634f477571fc214080ed8f843",
+        "event_hash": "691b82c948d4d2d78ca2e1bfb45e275383c150c427015d59bce85d32e66dd599"
+    },
+    {
+        "collapse_id": "cefb71ed-667e-4773-902d-018d088ddc59",
+        "timestamp": "2026-02-21T10:41:42.631543",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_13"
+        },
+        "previous_hash": "691b82c948d4d2d78ca2e1bfb45e275383c150c427015d59bce85d32e66dd599",
+        "event_hash": "4bd866cbf9b91ee7466734cc5b5eeee9608fcf20380e28e5f7d11f10a773b644"
+    },
+    {
+        "collapse_id": "0de90ce8-0919-4503-813d-dacbadbf9000",
+        "timestamp": "2026-02-21T10:41:42.692776",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_14"
+        },
+        "previous_hash": "4bd866cbf9b91ee7466734cc5b5eeee9608fcf20380e28e5f7d11f10a773b644",
+        "event_hash": "78d7e10ce8afbfe55cbcb7f30dc03ddbeaa7f55fa23c022e6426287b28872fc8"
+    },
+    {
+        "collapse_id": "ea4d1571-6a8b-47e8-a005-8fd56e53c093",
+        "timestamp": "2026-02-21T10:41:42.747331",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_15"
+        },
+        "previous_hash": "78d7e10ce8afbfe55cbcb7f30dc03ddbeaa7f55fa23c022e6426287b28872fc8",
+        "event_hash": "00f2930e6b887d89d65b2073dd09737e25995913e6e50076e168ba3a929a560f"
+    },
+    {
+        "collapse_id": "0c743c6a-5301-4da7-9f3f-edf7940c91f8",
+        "timestamp": "2026-02-21T10:41:42.805768",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_16"
+        },
+        "previous_hash": "00f2930e6b887d89d65b2073dd09737e25995913e6e50076e168ba3a929a560f",
+        "event_hash": "22298ea18e978ae7928d2ef1fae2be3ff2ca7cf7fec0795bea3dbf25406136ef"
+    },
+    {
+        "collapse_id": "5d083886-9541-47bc-b88d-a67b12450af5",
+        "timestamp": "2026-02-21T10:41:42.858371",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_17"
+        },
+        "previous_hash": "22298ea18e978ae7928d2ef1fae2be3ff2ca7cf7fec0795bea3dbf25406136ef",
+        "event_hash": "cd1e4eb17bd7e023e80583ac2c5414787974093c032c18ce5fd63b17783de745"
+    },
+    {
+        "collapse_id": "535792fc-6535-41a9-b344-2758cfb79059",
+        "timestamp": "2026-02-21T10:41:43.126846",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_18"
+        },
+        "previous_hash": "cd1e4eb17bd7e023e80583ac2c5414787974093c032c18ce5fd63b17783de745",
+        "event_hash": "135c35269a23ba10b01c3bfc6820107e87425cbd2e09418d0be496ab12b08eb3"
+    },
+    {
+        "collapse_id": "791fdeeb-6249-40bf-914b-29d08bb13bad",
+        "timestamp": "2026-02-21T10:41:43.329222",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_19"
+        },
+        "previous_hash": "135c35269a23ba10b01c3bfc6820107e87425cbd2e09418d0be496ab12b08eb3",
+        "event_hash": "6495c7536797a97a64e3bbb1f8359a02d51f3dde08559734a9817e54deb82c79"
+    },
+    {
+        "collapse_id": "846d32cf-1243-4659-b1c4-8aaaa2a50796",
+        "timestamp": "2026-02-21T10:41:43.434945",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_20"
+        },
+        "previous_hash": "6495c7536797a97a64e3bbb1f8359a02d51f3dde08559734a9817e54deb82c79",
+        "event_hash": "eed249de3da2ba6a5de1cf10ba230dfe86309d3789604e92098d102fef60ce32"
+    },
+    {
+        "collapse_id": "e377ec87-1474-4ae4-99aa-541e562af2aa",
+        "timestamp": "2026-02-21T10:41:43.493458",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_21"
+        },
+        "previous_hash": "eed249de3da2ba6a5de1cf10ba230dfe86309d3789604e92098d102fef60ce32",
+        "event_hash": "82e631b8269106a740ff43c4d3cc650eac4e6994779c1bf3c601d24d355b2283"
+    },
+    {
+        "collapse_id": "d3a62b97-3e61-4768-98bf-589534a8f52c",
+        "timestamp": "2026-02-21T10:41:43.552027",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_22"
+        },
+        "previous_hash": "82e631b8269106a740ff43c4d3cc650eac4e6994779c1bf3c601d24d355b2283",
+        "event_hash": "40ba0ec84db28d7656247e736342273dd66839ad9b559568f88d4e1a40782115"
+    },
+    {
+        "collapse_id": "2d51e386-7906-45a2-86d7-a024ac2165d4",
+        "timestamp": "2026-02-21T10:41:43.593439",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_23"
+        },
+        "previous_hash": "40ba0ec84db28d7656247e736342273dd66839ad9b559568f88d4e1a40782115",
+        "event_hash": "504b17525a1eee141fc96b362954b2007c431dad61d4d35ef1a0cfea883d6e8d"
+    },
+    {
+        "collapse_id": "c1806abe-234d-4626-ac35-15f5e6c8219e",
+        "timestamp": "2026-02-21T10:41:43.675673",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_24"
+        },
+        "previous_hash": "504b17525a1eee141fc96b362954b2007c431dad61d4d35ef1a0cfea883d6e8d",
+        "event_hash": "630938952175325fd6fb9423fd279519041b953c4d0853e7a4b67122ca59bc75"
+    },
+    {
+        "collapse_id": "99ca7595-e3b5-4d9e-b664-d3c03b805efd",
+        "timestamp": "2026-02-21T10:41:43.721873",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_25"
+        },
+        "previous_hash": "630938952175325fd6fb9423fd279519041b953c4d0853e7a4b67122ca59bc75",
+        "event_hash": "29b67dadade395a947e4f7931621cbd0917172a408a919157bb94b8b5d4b0718"
+    },
+    {
+        "collapse_id": "83da5ace-84e2-4d8a-ab8c-103f071256be",
+        "timestamp": "2026-02-21T10:41:43.784598",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_26"
+        },
+        "previous_hash": "29b67dadade395a947e4f7931621cbd0917172a408a919157bb94b8b5d4b0718",
+        "event_hash": "bbf3de63da4817f0928adef01e21c539eb3e66a5e0feb527adf62cca3812f242"
+    },
+    {
+        "collapse_id": "a462f4f6-b2b8-40c4-aa50-f6efc4631e99",
+        "timestamp": "2026-02-21T10:41:43.841103",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_27"
+        },
+        "previous_hash": "bbf3de63da4817f0928adef01e21c539eb3e66a5e0feb527adf62cca3812f242",
+        "event_hash": "609ebc0dcd6f17153fa204c5dcbba1d7654360914d2c6319f9dcd1d045dcc437"
+    },
+    {
+        "collapse_id": "e60ab1a2-e05b-4cfc-8451-8b7446813ef2",
+        "timestamp": "2026-02-21T10:41:43.926933",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_28"
+        },
+        "previous_hash": "609ebc0dcd6f17153fa204c5dcbba1d7654360914d2c6319f9dcd1d045dcc437",
+        "event_hash": "d30e6b6883acae8d861a9a349ddf696a3f7022a4703085e607397e53e2bdd2c7"
+    },
+    {
+        "collapse_id": "47ab0df7-8ac8-4919-a46b-ad45f85fc356",
+        "timestamp": "2026-02-21T10:41:43.993562",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_29"
+        },
+        "previous_hash": "d30e6b6883acae8d861a9a349ddf696a3f7022a4703085e607397e53e2bdd2c7",
+        "event_hash": "551ba75d0a1a86283ba13878df3eafd4c0082c8b7c763dab9f5408f47f4ec092"
+    },
+    {
+        "collapse_id": "86a2ed36-660f-4818-880e-f513cb59be73",
+        "timestamp": "2026-02-21T10:41:44.048919",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_30"
+        },
+        "previous_hash": "551ba75d0a1a86283ba13878df3eafd4c0082c8b7c763dab9f5408f47f4ec092",
+        "event_hash": "7ce4ec8853297b6d696bfe9f3656d48a320db17864f2bdfb51a5c9774328470f"
+    },
+    {
+        "collapse_id": "03c963f7-8289-4fdf-864a-aa514bb2b08b",
+        "timestamp": "2026-02-21T10:41:44.098850",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_31"
+        },
+        "previous_hash": "7ce4ec8853297b6d696bfe9f3656d48a320db17864f2bdfb51a5c9774328470f",
+        "event_hash": "f8b3e3b7cb6e2738c23fd4586658b36402e1cf2302681eeb99b8d876d3cc5fcf"
+    },
+    {
+        "collapse_id": "a0e3273b-8e5d-49d5-ad55-f84c8ffe9cc6",
+        "timestamp": "2026-02-21T10:41:44.160901",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_32"
+        },
+        "previous_hash": "f8b3e3b7cb6e2738c23fd4586658b36402e1cf2302681eeb99b8d876d3cc5fcf",
+        "event_hash": "1b24b18da81f22e53802d1097e59702dcac323b3f52973895556a0a885570b53"
+    },
+    {
+        "collapse_id": "ae7a167b-ff7f-4498-b7a5-522db0513c19",
+        "timestamp": "2026-02-21T10:41:44.228338",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_33"
+        },
+        "previous_hash": "1b24b18da81f22e53802d1097e59702dcac323b3f52973895556a0a885570b53",
+        "event_hash": "abc86c4d0a71a7cf32ad5b94f6b9f5f349fb37016d01c75cdf241041a237cf36"
+    },
+    {
+        "collapse_id": "e8347622-1740-4072-a9ac-603736b09e7a",
+        "timestamp": "2026-02-21T10:41:44.282710",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_34"
+        },
+        "previous_hash": "abc86c4d0a71a7cf32ad5b94f6b9f5f349fb37016d01c75cdf241041a237cf36",
+        "event_hash": "9709f272dcb93a3d6d3cee58ae6079c716d58342b93de758eadaa93563e0c738"
+    },
+    {
+        "collapse_id": "3e495469-6867-4e8f-8174-f5d6b55b7af7",
+        "timestamp": "2026-02-21T10:41:44.818283",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_35"
+        },
+        "previous_hash": "9709f272dcb93a3d6d3cee58ae6079c716d58342b93de758eadaa93563e0c738",
+        "event_hash": "62e1493d110c670750a9364761beca37d224a6a3fb5df45fc2bf7df3d8c5f9ff"
+    },
+    {
+        "collapse_id": "7cb425aa-4455-45ab-9177-9b2c36518edd",
+        "timestamp": "2026-02-21T10:41:44.980453",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_36"
+        },
+        "previous_hash": "62e1493d110c670750a9364761beca37d224a6a3fb5df45fc2bf7df3d8c5f9ff",
+        "event_hash": "14a1c5f786a4757b0d0aae3284354c91fb16859b58d120c520bf3569ce4cf13b"
+    },
+    {
+        "collapse_id": "ccafc8a7-c4df-4c1a-acc4-522b35423efd",
+        "timestamp": "2026-02-21T10:41:45.053718",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_37"
+        },
+        "previous_hash": "14a1c5f786a4757b0d0aae3284354c91fb16859b58d120c520bf3569ce4cf13b",
+        "event_hash": "d6ee42a2458861068de788b4505c7b90207ab08e9b88df5a9224201562dbddfd"
+    },
+    {
+        "collapse_id": "a6678513-bf88-4fce-811e-e677f0339480",
+        "timestamp": "2026-02-21T10:41:45.134177",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_38"
+        },
+        "previous_hash": "d6ee42a2458861068de788b4505c7b90207ab08e9b88df5a9224201562dbddfd",
+        "event_hash": "feac2095b3cc838c51405e6096f120826400a48951995c18d7fff0807fa66361"
+    },
+    {
+        "collapse_id": "9a6f1731-cb9e-4897-a1c2-bd898f87a3bd",
+        "timestamp": "2026-02-21T10:41:45.191972",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_39"
+        },
+        "previous_hash": "feac2095b3cc838c51405e6096f120826400a48951995c18d7fff0807fa66361",
+        "event_hash": "2d880f5c71c07a8a044744e3f208d4b8cae02287c61dc83397497015b3d2a3da"
+    },
+    {
+        "collapse_id": "f9b1a0d2-3c74-44b5-b86d-92ccdf6ee133",
+        "timestamp": "2026-02-21T10:41:45.247336",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_40"
+        },
+        "previous_hash": "2d880f5c71c07a8a044744e3f208d4b8cae02287c61dc83397497015b3d2a3da",
+        "event_hash": "2dcef567616a89e88c3b6d371d1878555f9b714150b0c210ef1dd74c01641aff"
+    },
+    {
+        "collapse_id": "cac96f3b-ffe0-40c9-ab0e-e1fed7a1c0ae",
+        "timestamp": "2026-02-21T10:41:45.301962",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_41"
+        },
+        "previous_hash": "2dcef567616a89e88c3b6d371d1878555f9b714150b0c210ef1dd74c01641aff",
+        "event_hash": "af579257f82515bfb245d0fd26375f7c3adfe7ed52ee136d5210e0f508c9be24"
+    },
+    {
+        "collapse_id": "1fd83267-5d26-4c33-8e1d-ce4f1a70dea7",
+        "timestamp": "2026-02-21T10:41:45.384227",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_42"
+        },
+        "previous_hash": "af579257f82515bfb245d0fd26375f7c3adfe7ed52ee136d5210e0f508c9be24",
+        "event_hash": "016b8eed17409ea01de7ef3da0852952d051b811ae2bbdc7304949bc72f04e74"
+    },
+    {
+        "collapse_id": "3d429c82-9c64-40c2-9f16-0cf736f796fc",
+        "timestamp": "2026-02-21T10:41:45.442147",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_43"
+        },
+        "previous_hash": "016b8eed17409ea01de7ef3da0852952d051b811ae2bbdc7304949bc72f04e74",
+        "event_hash": "c8bc5272b28bd97869f5bfacc073a0752177512e13be3cda857454b6865c6579"
+    },
+    {
+        "collapse_id": "9dfbe95c-459d-4089-a3c6-238a480affb4",
+        "timestamp": "2026-02-21T10:41:45.498314",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_44"
+        },
+        "previous_hash": "c8bc5272b28bd97869f5bfacc073a0752177512e13be3cda857454b6865c6579",
+        "event_hash": "7d19475d2f4a595c25d4641279b7be9f941fc652a405777f53af72c6aa27ad2a"
+    },
+    {
+        "collapse_id": "3dfbf217-8a5f-41d2-b14d-1d394af1d079",
+        "timestamp": "2026-02-21T10:41:45.581662",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_45"
+        },
+        "previous_hash": "7d19475d2f4a595c25d4641279b7be9f941fc652a405777f53af72c6aa27ad2a",
+        "event_hash": "4a7a023f75c2b6ed383a5ad25b7a034026d0e45a13367a8ab7025e3e2357e704"
+    },
+    {
+        "collapse_id": "5281ff5a-7b69-4aa5-9347-14c6eddbd420",
+        "timestamp": "2026-02-21T10:41:45.634233",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_46"
+        },
+        "previous_hash": "4a7a023f75c2b6ed383a5ad25b7a034026d0e45a13367a8ab7025e3e2357e704",
+        "event_hash": "98ea7c56a144ac6f2943aa5cc9957a6b0f7c978ccf9507adac1710743425f21b"
+    },
+    {
+        "collapse_id": "23a61489-b9e2-4cdf-907e-124b859657ff",
+        "timestamp": "2026-02-21T10:41:45.690314",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_47"
+        },
+        "previous_hash": "98ea7c56a144ac6f2943aa5cc9957a6b0f7c978ccf9507adac1710743425f21b",
+        "event_hash": "c057528ac39b1a9152b7134f628a3b681dd687a4c3b3baa019e4dedfdedd332c"
+    },
+    {
+        "collapse_id": "e570cd3b-f1da-4e95-ba18-b41452228419",
+        "timestamp": "2026-02-21T10:41:45.753578",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_48"
+        },
+        "previous_hash": "c057528ac39b1a9152b7134f628a3b681dd687a4c3b3baa019e4dedfdedd332c",
+        "event_hash": "2b6ff6a8f63c3e0529301aeb1aa73a44d2b1bc1eb46bf371bb0139c52d23d174"
+    },
+    {
+        "collapse_id": "fbe0ffe6-8716-44a9-b974-d7c224c54b47",
+        "timestamp": "2026-02-21T10:41:45.820222",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": {
+            "evidence": "data_49"
+        },
+        "previous_hash": "2b6ff6a8f63c3e0529301aeb1aa73a44d2b1bc1eb46bf371bb0139c52d23d174",
+        "event_hash": "caf120af4637beb18cd2a841631d95b40c1fe42b4f254d93ec492cfc58af3395"
+    },
+    {
+        "collapse_id": "6e6d3792-ed00-4df2-a5b6-504f70fe4d6c",
+        "timestamp": "2026-02-21T10:51:27.032015",
+        "previous_state": "Ambiguous",
+        "new_state": "Known",
+        "evidence_reference": "Signal_#456",
+        "previous_hash": "caf120af4637beb18cd2a841631d95b40c1fe42b4f254d93ec492cfc58af3395",
+        "event_hash": "0d5639f79a61c1ab178c36f173a2198cc5638d7f17b7ab24f9286b471f092441"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "collapse_id": "52a08096-ee10-4c8d-8a68-40d17ed3d935",
+        "timestamp": "2026-02-19T08:13:59.261789",
+        "previous_state": "Ambiguous",
+        "new_state": "Unknown",
+        "evidence_reference": "Signal_1",
+        "previous_hash": "GENESIS",
+        "event_hash": "828a704543dfda625593b2f63d41152c0a63cefe8039447f15ea462ffac494bc"
+    }
+]

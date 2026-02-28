@@ -1,0 +1,15 @@
+{
+  "Unknown": {
+    "allowed": ["Ambiguous"]
+  },
+  "Ambiguous": {
+    "allowed": ["Inferred", "Known"],
+    "requires_evidence": ["Known"]
+  },
+  "Inferred": {
+    "allowed": ["Known"]
+  },
+  "Known": {
+    "allowed": ["Ambiguous"]
+  }
+}

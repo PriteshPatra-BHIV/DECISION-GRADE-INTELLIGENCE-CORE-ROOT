@@ -1,0 +1,22 @@
+[
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_X",
+        "archived_at": "2026-02-19T08:13:59.022286"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_A",
+        "archived_at": "2026-02-19T08:13:59.101066"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_B",
+        "archived_at": "2026-02-19T08:13:59.102039"
+    },
+    {
+        "archived_state": "Ambiguous",
+        "context_reference": "Signal_1",
+        "archived_at": "2026-02-19T08:13:59.243259"
+    }
+]

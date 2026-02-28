@@ -1,0 +1,62 @@
+[
+    {
+        "transition_id": "134061e2-a0f2-4414-b355-74bdeb29410a",
+        "timestamp": "2026-02-13T10:58:43.794612",
+        "previous_state": "Unknown",
+        "target_state": "Ambiguous",
+        "new_evidence": false,
+        "justified_collapse": false,
+        "previous_hash": "GENESIS",
+        "event_hash": "cdacb8967b9e95dfe5c2c07747667eaf4631be2325c4e358b09280cdf23c0023"
+    },
+    {
+        "transition_id": "a0cc2a0b-c193-4331-a387-2713bc2e6cae",
+        "timestamp": "2026-02-13T10:58:43.794612",
+        "previous_state": "Ambiguous",
+        "target_state": "Known",
+        "new_evidence": true,
+        "justified_collapse": true,
+        "previous_hash": "cdacb8967b9e95dfe5c2c07747667eaf4631be2325c4e358b09280cdf23c0023",
+        "event_hash": "ab199e1296a377299624554a0843a5b86ed1e255643819e235de01aac8c37074"
+    },
+    {
+        "transition_id": "62906065-733f-4aef-8310-dac17dd400f7",
+        "timestamp": "2026-02-13T10:58:43.950018",
+        "previous_state": "Unknown",
+        "target_state": "Ambiguous",
+        "new_evidence": false,
+        "justified_collapse": false,
+        "previous_hash": "GENESIS",
+        "event_hash": "c41fc7b81775fbb36c1e6ba376e66e31301f617b61bffbe58e977f20bf12f201"
+    },
+    {
+        "transition_id": "c15437c2-7921-4b54-9f8e-36552ba2b106",
+        "timestamp": "2026-02-13T10:58:43.950018",
+        "previous_state": "Ambiguous",
+        "target_state": "Unknown",
+        "new_evidence": false,
+        "justified_collapse": false,
+        "previous_hash": "c41fc7b81775fbb36c1e6ba376e66e31301f617b61bffbe58e977f20bf12f201",
+        "event_hash": "868beeaa959f7ae9ca63aefcc3eb0f6d51c45a180fdcafccbee9c7acbd429d25"
+    },
+    {
+        "transition_id": "6a3f8fcc-28f7-47b6-ae89-ab047abf2276",
+        "timestamp": "2026-02-13T10:58:43.968340",
+        "previous_state": "Unknown",
+        "target_state": "Ambiguous",
+        "new_evidence": false,
+        "justified_collapse": false,
+        "previous_hash": "868beeaa959f7ae9ca63aefcc3eb0f6d51c45a180fdcafccbee9c7acbd429d25",
+        "event_hash": "ef39f00fb9c0ae6b5e5616fc2860c2147ed0bb9247cabfd8f3c864105567645f"
+    },
+    {
+        "transition_id": "e9694347-8488-4a02-9469-dea63eaa7464",
+        "timestamp": "2026-02-13T10:58:43.982552",
+        "previous_state": "Unknown",
+        "target_state": "Ambiguous",
+        "new_evidence": false,
+        "justified_collapse": false,
+        "previous_hash": "GENESIS",
+        "event_hash": "3de2cbc775bd02dd03804cb86db92ea07370bb3f5a3844de728c2ecf621b20f2"
+    }
+]
