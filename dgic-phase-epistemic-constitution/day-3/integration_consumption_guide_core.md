@@ -1,0 +1,1 @@
+# integration_consumption_guide_core.md

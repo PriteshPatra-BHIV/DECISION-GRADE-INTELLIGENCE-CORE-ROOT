@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DGIC Enforcement Output Schema v1",
+  "type": "object",
+  "required": [
+    "epistemic_state",
+    "confidence",
+    "contradiction_flag",
+    "evidence_hash",
+    "collapse_flag",
+    "entropy_score"
+  ],
+  "properties": {
+    "epistemic_state": {
+      "type": "string",
+      "enum": ["CERTAIN", "AMBIGUOUS", "CONTRADICTORY"]
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "contradiction_flag": {
+      "type": "boolean"
+    },
+    "evidence_hash": {
+      "type": "string"
+    },
+    "collapse_flag": {
+      "type": "boolean"
+    },
+    "entropy_score": {
+      "type": "number",
+      "minimum": 0
+    }
+  },
+  "additionalProperties": false
+}   

@@ -1,0 +1,27 @@
+{
+  "type": "object",
+  "required": [
+    "epistemic_state",
+    "entropy_score",
+    "contradiction_flag",
+    "collapse_flag",
+    "evidence_hash",
+    "lineage_hash",
+    "source_module",
+    "schema_version",
+    "timestamp",
+    "envelope_hash"
+  ],
+  "properties": {
+    "epistemic_state": { "type": "string" },
+    "entropy_score": { "type": "number" },
+    "contradiction_flag": { "type": "boolean" },
+    "collapse_flag": { "type": "boolean" },
+    "evidence_hash": { "type": "string" },
+    "lineage_hash": { "type": "string" },
+    "source_module": { "type": "string" },
+    "schema_version": { "type": "string" },
+    "timestamp": { "type": "string" },
+    "envelope_hash": { "type": "string" }
+  }
+}

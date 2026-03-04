@@ -1,0 +1,22 @@
+# epistemic_capability_matrix.json
+{
+  "DGIC": {
+    "inform": true,
+    "signal": true,
+    "bound": true,
+    "refuse": true,
+    "execute": false,
+    "enforce": false,
+    "escalate_authority": false
+  },
+  "EnforcementLayer": {
+    "inform": true,
+    "signal": true,
+    "bound": true,
+    "refuse": true,
+    "execute": false
+  },
+  "ExecutionLayer": {
+    "execute": true
+  }
+}
