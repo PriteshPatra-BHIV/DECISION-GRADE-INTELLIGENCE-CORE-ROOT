@@ -1,13 +1,13 @@
 # Day 1 Summary — Integration Contract Definition
 
 ## Assigned Date:
-[Fill]
+January 13, 2025
 
 ## Due Date:
-[Fill]
+January 20, 2025
 
 ## Delivered Date:
-[Fill]
+January 20, 2025
 
 ## Deliverables Completed
 

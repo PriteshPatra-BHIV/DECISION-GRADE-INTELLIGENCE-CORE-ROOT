@@ -26,3 +26,10 @@ def adapter():
     core = MockDGICCore()
     harness = DGICIntegrationHarness(core)
     return EnforcementAdapter(harness)
+
+
+@pytest.fixture
+def harness():
+    """Fixture providing DGICIntegrationHarness for tests"""
+    core = MockDGICCore()
+    return DGICIntegrationHarness(core)
