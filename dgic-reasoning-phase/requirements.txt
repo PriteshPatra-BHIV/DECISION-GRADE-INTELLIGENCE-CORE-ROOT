@@ -1,0 +1,24 @@
+# DGIC Reasoning Layer - Production Dependencies
+# Python 3.8+
+
+# Core dependencies (minimal, standard library only)
+# No external dependencies required for core functionality
+
+# Development and testing dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
+pytest-timeout>=2.1.0
+
+# Code quality
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.950
+pylint>=2.13.0
+
+# Documentation
+sphinx>=4.5.0
+sphinx-rtd-theme>=1.0.0
+
+# Performance profiling (optional)
+memory-profiler>=0.60.0
+line-profiler>=3.5.0
