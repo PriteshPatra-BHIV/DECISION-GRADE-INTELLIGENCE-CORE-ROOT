@@ -1,29 +1,40 @@
 class EnforcementAdapter:
     """
-    Consumes DGIC epistemic state and produces enforcement signal.
-    Does NOT mutate DGIC intelligence.
+    Consumes DGIC decision and maps to enforcement actions.
+    Per integration contract: DGIC provides intelligence, Enforcement owns action decision.
     """
 
-    def evaluate_enforcement(self, dgic_response):
-
-        state = dgic_response["epistemic_state"]
+    def map_decision_to_action(self, dgic_response):
+        """
+        Maps DGIC decision to enforcement action.
+        
+        Args:
+            dgic_response: DGIC output matching integration_contract.md Section 3
+            
+        Returns:
+            dict with action, confidence, execution_id for logging
+        """
+        decision = dgic_response["decision"]
+        execution_id = dgic_response["execution_id"]
         confidence = dgic_response["confidence"]
-        contradiction = dgic_response["contradiction_flag"]
-
-        # Default enforcement signal
-        decision = "ABSTAIN"
-
-        if contradiction:
-            decision = "REVIEW_REQUIRED"
-
-        elif state == "CERTAIN" and confidence > 0.85:
-            decision = "ENFORCE_ACTION"
-
-        elif state == "AMBIGUOUS":
-            decision = "DEFER_DECISION"
-
+        epistemic_state = dgic_response["epistemic_state"]
+        
+        # Decision mapping per contract Section 3.2
+        action_map = {
+            "PROCEED": "allow",
+            "ESCALATE": "escalate",
+            "HOLD": "delay",
+            "REQUEST_MORE_DATA": "request_input",
+            "ERROR": "fail_safe"
+        }
+        
+        action = action_map.get(decision, "fail_safe")
+        
         return {
-            "enforcement_decision": decision,
+            "execution_id": execution_id,
+            "action": action,
+            "decision": decision,
             "confidence": confidence,
+            "epistemic_state": epistemic_state,
             "source": "DGIC"
         }
